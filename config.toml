@@ -9,7 +9,6 @@ enableGitInfo = false
 
 [params]
 address = "Weert, Limburg"
-email = "woutervanakkeren[at]gmail.com"
 favicon = "/favicon.ico"
 firstName = "Wouter"
 lastName = "van Akkeren"
@@ -22,6 +21,7 @@ showProjects = true
 showPublications = false
 showQr = true
 showSkills = true
+
 
 [params.google]
 
@@ -39,6 +39,11 @@ name = "GitHub"
 [[params.handles]]
 link = "https://www.facebook.com/wouter.vanakkeren/"
 name = "Facebook"
+
+[[params.handles]]
+link = "https://www.facebook.com/wouter.vanakkeren/"
+name = "Gmail"
+
 
 [outputs]
 home = ["HTML", "JSON"]
