@@ -40,10 +40,6 @@ name = "GitHub"
 link = "https://www.facebook.com/wouter.vanakkeren/"
 name = "Facebook"
 
-[[params.handles]]
-link = "mailto: woutervanakkeren@gmail.com"
-name = "Gmail"
-
 
 [outputs]
 home = ["HTML", "JSON"]
