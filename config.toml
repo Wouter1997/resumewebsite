@@ -1,5 +1,5 @@
 title = "Wouter van Akkeren"
-baseURL = "https://example.com/"
+baseURL = "wouter1997.netlify.app"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
