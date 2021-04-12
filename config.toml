@@ -2,8 +2,8 @@ title = "Wouter van Akkeren"
 baseURL = "https://example.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
-PygmentsCodeFences = true
-PygmentsCodeFencesGuessSyntax = true
+PygmentsCodeFences = false
+PygmentsCodeFencesGuessSyntax = false
 PygmentsStyle = "monokai"
 enableGitInfo = false
 
