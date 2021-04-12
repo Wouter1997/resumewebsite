@@ -9,7 +9,7 @@ enableGitInfo = false
 
 [params]
 address = "Weert, Limburg"
-email = "woutervanakkeren@gmail.com"
+email = "woutervanakkeren[at]gmail.com"
 favicon = "/favicon.ico"
 firstName = "Wouter"
 lastName = "van Akkeren"
