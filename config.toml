@@ -42,6 +42,3 @@ name = "Facebook"
 
 [outputs]
 home = ["HTML", "JSON"]
-
-[taxonomies]
-tag = "tags"
