@@ -1,0 +1,47 @@
+title = "Wouter van Akkeren"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Weert, Limburg"
+email = "woutervanakkeren@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Wouter"
+lastName = "van Akkeren"
+phone = "+31 6 42102565"
+profileImage = "img/Pic Watro.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/wouter-van-akkeren-20a3b318b/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/Wouter1997"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://www.facebook.com/wouter.vanakkeren/"
+name = "Facebook"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

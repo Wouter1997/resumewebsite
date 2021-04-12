@@ -1,0 +1,31 @@
+[
+    {
+        "school":"Tilburg University",
+        "degree":"Master of Science",
+        "major":"Marketing Analytics",
+        "notes":"Beta Gamma Signma, High Honors",
+        "range":"2020 - Current"
+    },
+    {
+        "school":"Conservatory of Amsterdam",
+        "degree":"Associate Degree",
+        "major":"Electronic Music",
+        "range":"2018 - 2020"
+    },
+    {
+        "school":"Radboud University",
+        "degree":"Bachelor of Science",
+        "major":"Bedrijfskunde",
+        "range":"2015 - 2018"
+    },
+    {
+        "school":"Philips van Horne",
+        "degree":"VWO Atheneum",
+        "major":"Economics & Management profile",
+        "range":"2009 - 2015"
+    }
+
+
+	
+	
+]

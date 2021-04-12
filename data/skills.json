@@ -1,0 +1,40 @@
+[
+    {
+      "grouping":"Operating Systems & Tools",
+      "skills":[ "Python- Jupyter Notebook/Spyder", "R", "SPSS", "Git(hub)", "bash"]
+  },
+ 
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft Office"}]
+  },
+  {
+      "grouping":"Languages",
+      "skills":[
+        {"name":"English"},
+        {"name":"Dutch"},
+        "German (average)",
+        {"name":"French (weak)"}
+      ]
+  },
+  {
+    "grouping":"Personal skills",
+      "skills":[
+          {"name":"Creative thinking"},
+          {"name":"Problem-solving"},
+          {"name":"Analytical skills"},
+          {"name":"Helicopter view"},
+	  {"name":"Passionate"}
+	
+          
+      ]
+  },
+{
+      "grouping":"Other skills",
+      "skills":[
+        {"name":"Music production (FL Studio)"},
+        {"name":"Photoshop (Affinity Photo)"}
+      ]
+  }
+]
